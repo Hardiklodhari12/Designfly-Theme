@@ -11,17 +11,17 @@
       5. Contact
   
   And the following templates :
-     
+      
       * Homepage
       * Blog page
-      *	Single post page
+      * Single post page
       *	Portfolio page
       *	Author archive page
       *	Category archive page
       *	Tag archive page
       *	Date/Month/Year archive page
 
-## Starter Theme _S is used as base Theme 
+## Starter Theme _S/Underscores is used as base Theme 
 
    * https://underscores.me/
   
@@ -31,7 +31,7 @@
    
    * In Demo Thickbox fetched from 000webhost so not appear as per given in Read me.. 
 
-### WordPress Local Development Access:
+## WordPress Local Development Access:
 
 |  Setting   |            Value             |
 |------------|------------------------------|
@@ -41,11 +41,12 @@
 | Datbase    | vvv.test/database-admin/     |
 | DB Name    | wordpress-one                |
 
-
+## Screenshots 📷
 
 ![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/home.png) <hr>
 ![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/portfolio.png) <hr>
-![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/blog.png) <hr>
+![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/blog-page.png) <hr>
+![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/thickbox.png) <hr>
 ![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/single-page.png) <hr>
 
 😊😊
