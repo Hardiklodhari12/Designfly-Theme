@@ -12,14 +12,14 @@
   
   And the following templates :
       
-      * Homepage
-      * Blog page
-      * Single post page
-      *	Portfolio page
-      *	Author archive page
-      *	Category archive page
-      *	Tag archive page
-      *	Date/Month/Year archive page
+      1. Homepage
+      2. Blog page
+      3. Single post page
+      4. Portfolio page
+      5. Author archive page
+      6. Category archive page
+      7. Tag archive page
+      8. Date/Month/Year archive page
 
 ## Starter Theme _S/Underscores is used as base Theme 
 
