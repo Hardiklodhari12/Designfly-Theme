@@ -27,9 +27,8 @@
   
 ## Demo Link
 
-   * https://designflythemertcamp.000webhostapp.com/
+   * http://work.digitalvichar.com/hardik/
    
-   * In Demo Thickbox fetched from 000webhost so not appear as per given in Read me.. 
 
 ## WordPress Local Development Access:
 
