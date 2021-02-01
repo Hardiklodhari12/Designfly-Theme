@@ -42,10 +42,10 @@
 
 ## Screenshots 📷
 
-![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/home.png) <hr>
-![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/portfolio.png) <hr>
-![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/blog-page.png) <hr>
-![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/thickbox.png) <hr>
-![alt text](https://designflythemertcamp.000webhostapp.com/wp-content/uploads/2020/02/single-page.png) <hr>
+![alt text](https://ibb.co/kJRRWCn) <hr>
+![alt text](https://ibb.co/YD5jJM1) <hr>
+![alt text](https://ibb.co/9hgZCtb) <hr>
+![alt text](https://ibb.co/56gsFmh) <hr>
+![alt text](https://ibb.co/kQQMJyM) <hr>
 
 😊😊
