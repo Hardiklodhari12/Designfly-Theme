@@ -42,10 +42,10 @@
 
 ## Screenshots 📷
 
-![alt text](https://ibb.co/kJRRWCn) <hr>
-![alt text](https://ibb.co/YD5jJM1) <hr>
-![alt text](https://ibb.co/9hgZCtb) <hr>
-![alt text](https://ibb.co/56gsFmh) <hr>
-![alt text](https://ibb.co/kQQMJyM) <hr>
+![alt text](https://i.ibb.co/gd55BK1/1.png) <hr>
+![alt text](https://i.ibb.co/HNcgRsb/2.png) <hr>
+![alt text](https://i.ibb.co/zFx60JX/3.png) <hr>
+![alt text](https://i.ibb.co/rmR5sY2/thickbox.png) <hr>
+![alt text](https://i.ibb.co/xJJ3Ys3/4.png) <hr>
 
 😊😊
